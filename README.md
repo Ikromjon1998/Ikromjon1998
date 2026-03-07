@@ -1,87 +1,135 @@
 <div align="center">
 
-# Ikromjon Ochilov
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ikromjon%20Ochilov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Germany&descSize=18&descAlignY=52"/>
 
-### Software Engineer | Germany
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+PHP+%7C+Go+%F0%9F%94%A5;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Open+to+New+Opportunities+%E2%9C%A8" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Profile Views + Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=Ikromjon1998&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikromjon-ochilov-045560182)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ikromjon1998)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikromjon.ochilov@gmail.com)
 
 </div>
 
+<!-- Animated Developer Section -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## About Me
+
+```yaml
+name: Ikromjon Ochilov
+location: Germany
+role: Software Engineer
+company: Gradar
+experience:
+  - Full-Stack Web Development
+  - API Design & Microservices
+  - AI-Powered Applications
+  - Cloud & DevOps
+currently_learning:
+  - Advanced System Design
+  - LLM Integration Patterns
+  - Cloud-Native Architecture
+open_to: New Opportunities
+```
+
+<br clear="right"/>
+
 ---
 
-I'm a Software Engineer based in Germany with experience building full-stack applications across multiple tech stacks. I focus on writing clean, scalable code and delivering production-ready solutions. Currently exploring AI-powered tooling and modern cloud architectures.
+## Tech Stack
 
-**Currently at [Gradar](https://gradar.com)** | Open to new opportunities
-
----
+<div align="center">
 
 ### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,php,js,go" alt="Languages"/>
+</p>
 
 ### Backend
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,laravel,django,express,nodejs" alt="Backend"/>
+</p>
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,tailwind" alt="Frontend"/>
+</p>
 
 ### Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,githubactions" alt="Infrastructure"/>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vite,figma" alt="Tools"/>
+</p>
 
-### Practices
-
-`REST APIs` `GraphQL` `Microservices` `TDD` `CI/CD` `Clean Architecture` `Agile`
+</div>
 
 ---
 
-### What I'm Working On
-
-- Building full-stack applications with **TypeScript** and **Python**
-- Designing **API architectures** and **microservice systems**
-- Developing **AI-powered tools** with LLM integrations
-- Contributing to open source projects
-
----
+## Featured Projects
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ikromjon1998&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170"/>
+<a href="https://github.com/Ikromjon1998/nikoh-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=nikoh-platform&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikromjon1998&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages" height="170"/>
+<a href="https://github.com/Ikromjon1998/subscription-tracker-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=subscription-tracker-app&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
+</a>
+
+<a href="https://github.com/Ikromjon1998/nestjs-auth-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=nestjs-auth-system&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Ikromjon1998/dev-mentor-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=dev-mentor-ai&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ikromjon1998&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikromjon1998&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikromjon1998&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikromjon1998&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikromjon1998&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikromjon1998&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -89,9 +137,19 @@ I'm a Software Engineer based in Germany with experience building full-stack app
 
 <div align="center">
 
-**Open to opportunities** — Let's build something great together.
+### Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikromjon.ochilov@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikromjon-ochilov-045560182)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
+
+**Open to opportunities** — I'm looking for my next challenge at a company where I can make an impact.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikromjon-ochilov-045560182)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikromjon.ochilov@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
