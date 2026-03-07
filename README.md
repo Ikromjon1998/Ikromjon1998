@@ -81,23 +81,44 @@ open_to: New Opportunities
 ## Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Ikromjon1998/nikoh-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=nikoh-platform&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Ikromjon1998/subscription-tracker-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=subscription-tracker-app&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
-</a>
+### [Nikoh Platform](https://github.com/Ikromjon1998/nikoh-platform)
+Full-stack dating & matching platform with **AI-powered identity verification** (face recognition, document OCR, MRZ parsing), real-time messaging, and intelligent matching.
 
-<a href="https://github.com/Ikromjon1998/nestjs-auth-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=nestjs-auth-system&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Ikromjon1998/dev-mentor-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikromjon1998&repo=dev-mentor-ai&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
-</a>
+`Python` `FastAPI` `React 19` `TypeScript` `PostgreSQL` `InsightFace` `EasyOCR`
 
+</td>
+<td width="50%" valign="top">
+
+### [Subscription Tracker](https://github.com/Ikromjon1998/subscription-tracker-app)
+SaaS subscription management platform with **Stripe billing**, multi-currency exchange rates, premium tiers, categories/tags, and background queue workers.
+
+`PHP 8.2` `Laravel 12` `Stripe` `MySQL` `Redis` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [NestJS Auth System](https://github.com/Ikromjon1998/nestjs-auth-system)
+Production-ready authentication & authorization system with **JWT tokens**, Passport.js strategies, role-based access control, and TypeORM migrations.
+
+`TypeScript` `NestJS` `PostgreSQL` `JWT` `Passport` `TypeORM`
+
+</td>
+<td width="50%" valign="top">
+
+### [Dev Mentor AI](https://github.com/Ikromjon1998/dev-mentor-ai)
+AI-powered developer mentoring tool with **LLM integration**, conversational interface, syntax-highlighted code rendering, and personalized learning paths.
+
+`TypeScript` `React 19` `Tailwind CSS` `LLM` `Markdown`
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -106,9 +127,20 @@ open_to: New Opportunities
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ikromjon1998&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+<!-- Self-hosted stats via GitHub Action — always available -->
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikromjon1998&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="180"/>
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" height="180"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" height="180"/>
 
 <br/><br/>
 
@@ -138,8 +170,6 @@ open_to: New Opportunities
 <div align="center">
 
 ### Let's Connect
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
 
 **Open to opportunities** — I'm looking for my next challenge at a company where I can make an impact.
 

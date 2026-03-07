@@ -1,0 +1,22 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fez6k/github-profile-summary-cards@release
+        with:
+          USERNAME: Ikromjon1998
+          BRANCH_NAME: cards
+          UTC_OFFSET: 1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
