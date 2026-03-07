@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ikromjon%20Ochilov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Germany&descSize=18&descAlignY=52"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+PHP+%7C+Go+%F0%9F%94%A5;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Open+to+New+Opportunities+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+PHP+%F0%9F%94%A5;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;Open+to+New+Opportunities+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -19,29 +19,42 @@
 
 </div>
 
-<!-- Animated Developer Section -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
 
 ## About Me
+
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 name: Ikromjon Ochilov
 location: Germany
 role: Software Engineer
 company: Gradar
+
 experience:
   - Full-Stack Web Development
   - API Design & Microservices
   - AI-Powered Applications
   - Cloud & DevOps
+
 currently_learning:
   - Advanced System Design
   - LLM Integration Patterns
   - Cloud-Native Architecture
+
 open_to: New Opportunities
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,7 +64,7 @@ open_to: New Opportunities
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,python,php,js,go" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,php,js" alt="Languages"/>
 </p>
 
 ### Backend
