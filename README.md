@@ -128,19 +128,19 @@ AI-powered developer mentoring tool with **LLM integration**, conversational int
 <div align="center">
 
 <!-- Self-hosted stats via GitHub Action — always available -->
-<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" height="180"/>
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" height="180"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" height="180"/>
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" height="180"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="180"/>
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/cards/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" height="180"/>
+<img src="https://raw.githubusercontent.com/Ikromjon1998/Ikromjon1998/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" height="180"/>
 
 <br/><br/>
 
